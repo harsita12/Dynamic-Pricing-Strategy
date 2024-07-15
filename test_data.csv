@@ -1,0 +1,5 @@
+product_id,season,demand,supply
+1,summer,high,low
+2,winter,medium,medium
+3,spring,low,high
+4,autumn,high,medium
